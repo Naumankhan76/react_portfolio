@@ -1195,6 +1195,7 @@ BUTTON
   border: 1px solid transparent;
   transition: all 500ms ease;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .button:focus {
@@ -1205,13 +1206,14 @@ BUTTON
   background-color: #0062d3;
   color: #fff;
   transition: all 500ms ease;
+  text-decoration: none;
 }
 
 .button-a {
   
   background-color: #0078ff;
   color: #fff;
-  border-color: #cde1f8;
+  
 }
 
 .button-big {

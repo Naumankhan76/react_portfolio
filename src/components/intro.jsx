@@ -33,7 +33,7 @@ class Intro extends React.Component {
               </p>
               <p className="pt-3">
                 <a
-                  className="buttonwork btn-primary btn js-scroll"
+                  className="button button-a button-big button-rouded"
                   href="#work"
                   role="button"
                 >
