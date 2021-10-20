@@ -104,7 +104,7 @@ class About extends React.Component {
               <div class="col-md-6">
               
               <ul class="content-menu-menu">
-                <li style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Email&nbsp;:</strong>&nbsp;naumankhan76@gmail.com</li>
+                <li style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Email&nbsp;:</strong>&nbsp;Naumankhan76@gmail.com</li>
                 <li  style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Phone&nbsp;:</strong>&nbsp;+92&nbsp;311&nbsp;9585567</li>
                 <li  style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>City&nbsp;:</strong>&nbsp;Islamabad,&nbsp;Pakistan</li>
                 <li  style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Freelance&nbsp;:</strong>&nbsp;Available</li>

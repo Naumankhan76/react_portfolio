@@ -71,33 +71,35 @@ class Resume extends React.Component {
             <div class="resume-item">
               <h4>Upwork</h4>
               <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
+                <li>Providing solutions to people around the world in the domain of web base technologies.</li>
               </ul>
             </div>
             <div class="resume-item">
               <h4>Fiverr</h4>
               <h5>2019 - Present</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Providing solutions to people around the world in the domain of web base technologies.</li>
               </ul>
             </div>
             <div class="resume-item">
               <h4>Blue Space Breakdown Cover</h4>
               <h5>2020</h5>
-              <p><em>Outsource, United States</em></p>
+              <p><em>Outsource, United Kingdom</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li> Developed numerous programs and modules of project related to design and backend solutions. </li>
               </ul>
             </div>
             <div class="resume-item">
               <h4>Script Syntax</h4>
               <h5>2019-2020</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <p><em>Remote, USA</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>
+                Responsible for making new user interface features, Build reusable components and Other front end tasks.
+                </li>
               </ul>
             </div>
             
