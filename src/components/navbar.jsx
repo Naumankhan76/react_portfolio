@@ -4,6 +4,7 @@ import $ from "jquery";
 import logo1 from "../img/male1.png";
 import logo2 from "../img/male.png";
 
+
 class Navbar extends React.Component {
   constructor() {
     super();
