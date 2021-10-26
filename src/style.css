@@ -13,6 +13,8 @@ h4,
 h5,
 h6 {
   color: #1e1e1e;
+  
+  
 }
 
 a {
@@ -109,7 +111,25 @@ a:hover {
 .table-cell {
   display: table-cell;
   vertical-align: middle;
+
+  align-items: center;
+
+  
+
 }
+
+.conpad{
+
+
+  
+
+
+  
+
+
+}
+
+
 
 /* Sections */
 
@@ -404,12 +424,31 @@ a:hover {
 NAVBAR
 */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .navbar-b {
   transition: all .5s ease-in-out;
   background-color: transparent;
   padding-top: 1.563rem;
   padding-bottom: 1.563rem;
 }
+
+
 
 .navbar-b.navbar-reduce {
   box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
@@ -600,9 +639,67 @@ NAVBAR
   opacity: 0.9;
 }
 
+.navbar-toggler:not(.collapsed) span:nth-child(4) {
+  height: 12px;
+  visibility: hidden;
+  background-color: transparent;
+}
+
+.navbar-toggler:not(.collapsed) span:nth-child(5) {
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  -webkit-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+  opacity: 0.9;
+}
+
+
+.navbar-toggler:not(.collapsed) span:nth-child(6) {
+  height: 12px;
+  visibility: hidden;
+  background-color: transparent;
+}
+
+.navbar-toggler:not(.collapsed) span:nth-child(7) {
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  -webkit-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+  opacity: 0.9;
+}
+
 /*
 INTRO
 */
+
+
+@media  (max-height: 600px) {
+
+  .intro .intro-title { 
+     font-size: 1.8em;   
+     color: rgb(255, 255, 255);
+  }
+}
+
+@media  (max-height: 500px) {
+.intro .text-slider{
+  font-size: 1em; 
+  color: rgb(255, 255, 255);
+}
+
+
+}
+ .intro-title{
+  font-size: 4em;
+  color: white;
+}
+
+.text-slider {
+  font-size: 2.5rem;
+}
+
 
 .intro {
   height: 100vh;
@@ -626,11 +723,7 @@ INTRO
   opacity: .9;
 }
 
-.intro .intro-title {
-  color: #fff;
-  font-weight: 600;
-  font-size: 3rem;
-}
+
 
 .intro .intro-subtitle {
   font-size: 1.5rem;
@@ -1308,7 +1401,7 @@ margin-bottom : 2rem;
   }
 }
 
-@media (min-width: 767px) {
+@media (min-width: 999px) {
   .about-mf .box-pl2 {
     margin-top: 3rem;
     padding-left: 0rem;
@@ -1339,17 +1432,10 @@ margin-bottom : 2rem;
     margin-left: 18px;
   }
 
-  .intro .intro-title {
-    font-size: 4.5rem;
-  }
 
-  .intro .intro-subtitle {
-    font-size: 2.5rem;
-  }
 
-  .intro-single .intro-title {
-    font-size: 3.5rem;
-  }
+ 
+ 
 
   .testimonial-box .description {
     padding: 0 5rem;
@@ -1377,6 +1463,10 @@ margin-bottom : 2rem;
   }
 }
 
+@media (min-width: 999px) {
+
+}
+
 @media (min-width: 1200px) {
   .testimonial-box .description {
     padding: 0 13rem;
@@ -1389,7 +1479,7 @@ margin-bottom : 2rem;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 999px) {
   .back-to-top {
     bottom: 15px;
   }

@@ -11,8 +11,19 @@ class Intro extends React.Component {
 
         <div className="intro-content display-table">
           <div className="table-cell">
-            <div className="container">
-              <h1 className="intro-title mb-4">Hello, I am Nauman Khan</h1>
+          
+            
+            <div className="conpad">
+            <div className="title-box-2">
+                    
+                    </div>
+                    <div className="title-box-2">
+                    
+                    </div>
+                    <div className="title-box-2">
+                    
+                    </div>
+              <h1 className="intro-title">Hello, I am Nauman Khan</h1>
               
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
@@ -41,9 +52,11 @@ class Intro extends React.Component {
                 </a>
               </p>
             </div>
+          
+          </div>
           </div>
         </div>
-      </div>
+      
     );
   }
 }
