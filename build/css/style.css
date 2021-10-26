@@ -923,7 +923,7 @@ BUTTON
   }
 }
 
-@media (min-width: 767px) {
+@media (min-width: 999px) {
   .about-mf .box-pl2 {
     margin-top: 3rem;
     padding-left: 0rem;
@@ -939,7 +939,7 @@ BUTTON
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 999px) {
   .box-shadow-full {
     padding: 3rem;
   }
@@ -1004,7 +1004,7 @@ BUTTON
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 999px) {
   .back-to-top {
     bottom: 15px;
   }
