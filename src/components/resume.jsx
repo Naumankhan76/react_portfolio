@@ -69,11 +69,19 @@ class Resume extends React.Component {
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
+              <h4>FELICIA PARIS</h4>
+              <h5>Dec 2022 - March 2023</h5>
+              <p><em>Freelance, United Kingdom</em></p>
+              <ul>
+                <li> I created numerous ad campaigns and developed SEO stratgies to generate sales and bring more customers. </li>
+              </ul>
+            </div>
+            <div class="resume-item">
               <h4>Upwork</h4>
               <h5>2019 - Present</h5>
               
               <ul>
-                <li>Providing solutions to people around the world in the domain of web base technologies.</li>
+                <li>Providing solutions to people around the world in the domain of digital marketing.</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -81,27 +89,11 @@ class Resume extends React.Component {
               <h5>2019 - Present</h5>
               
               <ul>
-                <li>Providing solutions to people around the world in the domain of web base technologies.</li>
+                <li>Providing solutions to people around the world in the domain of digital marketing.</li>
               </ul>
             </div>
-            <div class="resume-item">
-              <h4>Blue Space Breakdown Cover</h4>
-              <h5>2020</h5>
-              <p><em>Outsource, United Kingdom</em></p>
-              <ul>
-                <li> Developed numerous programs and modules of project related to design and backend solutions. </li>
-              </ul>
-            </div>
-            <div class="resume-item">
-              <h4>Script Syntax</h4>
-              <h5>2019-2020</h5>
-              <p><em>Remote, USA</em></p>
-              <ul>
-                <li>
-                Responsible for making new user interface features, Build reusable components and Other front end tasks.
-                </li>
-              </ul>
-            </div>
+
+
             
           </div>
         </div>
