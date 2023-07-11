@@ -30,7 +30,7 @@ class Intro extends React.Component {
                 <strong className="text-slider">
                   <Typed
                     strings={[
-                      "Digital Marketer"
+                      "Digital Marketer",
                       "Search Engine Optimization",
                       "Search Engine Marketing",
                       "Social Media Marketing",
