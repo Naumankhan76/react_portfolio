@@ -68,8 +68,8 @@ class Services extends React.Component {
                 class="img-fluid" 
                 alt=""/>
               </div>
-              <h4>Mobile App Development</h4>
-              <p>I love to implement and develop mobile apps that meet the requirements of the clients.</p>
+              <h4>Social Media Marketing</h4>
+              <p>Social media marketing strategies, Product promotion</p>
             </div>
           </div>
 
@@ -83,8 +83,8 @@ class Services extends React.Component {
                 alt=""/>
               </div>
               </div>
-              <h4>Web Development</h4>
-              <p>I like to create and maintain user friendly interfaces and bringing the idea to browser.</p>
+              <h4>Search Engine Optimization</h4>
+              <p>On page SEO, Off page SEO, Technical SEO</p> 
             </div>
           </div>
 
@@ -96,8 +96,8 @@ class Services extends React.Component {
                 class="img-fluid" 
                 alt=""/>
               </div>
-              <h4>Backend Development</h4>
-              <p style={{fontFamily: "sans-serif"}}>As a Backend Developer, Use packages to plan, develop and test the server-side/business logic of an application.</p>
+              <h4>Ad Campaigns</h4>
+              <p style={{fontFamily: "sans-serif"}}>Google Ads, Facebook Ads, Instagram Ads</p>
             </div>
           </div>
 
