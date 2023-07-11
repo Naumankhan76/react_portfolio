@@ -46,7 +46,7 @@ ReactDOM.render(
         <Resume />
         <Services />
         <Testimonials />
-        <Portfolio />
+        {/*<Portfolio />*/}
         <Contact />
         <BackToTop />
         <Preloader />
