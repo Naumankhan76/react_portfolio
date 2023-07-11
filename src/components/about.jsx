@@ -12,45 +12,45 @@ class About extends React.Component {
     
     this.state = {
       skills: [
-        { id: "HTML5_skill", content: "HTML5", porcentage: "90%", value: "90" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "90%", value: "90" },
+        { id: "HTML5_skill", content: "ON PAGE SEO", porcentage: "90%", value: "90" },
+        { id: "CSS3_skill", content: "OFF PAGE SEO", porcentage: "90%", value: "90" },
         {
           id: "JavaScript_skill",
-          content: "JavaScript",
-          porcentage: "90%",
-          value: "90"
+          content: "TECHNICAL SEO",
+          porcentage: "80%",
+          value: "80"
         },
-        { id: "PHP_skill", content: "ASP.NET", porcentage: "80%", value: "80" },
+        { id: "PHP_skill", content: "SEM", porcentage: "75%", value: "75" },
         {
           id: "ReactJS_skill",
-          content: "ReactJS",
+          content: "SMM",
           porcentage: "85%",
           value: "85"
         },
         {
           id: "Python_skill",
-          content: "NodeJS",
+          content: "GOOGLE ADS",
           porcentage: "75%",
           value: "75"
         },
         {
           id: "VanillaJS_skill",
-          content: "MongoDB",
-          porcentage: "75%",
-          value: "75"
+          content: "AD DESIGNS",
+          porcentage: "85%",
+          value: "80"
         },
         {
           id: "Wordpress_skill",
-          content: "Wordpress",
-          porcentage: "70%",
-          value: "70"
+          content: "WORDPRESS",
+          porcentage: "90%",
+          value: "90"
         }
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "A computer enthusiast software engineer offering expertise in software development. Seeking a designation with a progressive organization where i can utilize my knowledge and experience in the field of Computer Science. Committed to project deadlines and capable of thinking “outside box”."
+            "A tech enthusiast offering expertise in digital marketing and web development. Seeking for clients and companies where i can utilize my skills and knowledge and experience in the field of internet marketing. Committed to project deadlines and capable of thinking “outside box.” Strong decision-maker. Ready to work closely with teams and customers to identify most efficient and beneficial solutions for process improvement."
         },
         {
           id: "second-p-about",
@@ -104,8 +104,8 @@ class About extends React.Component {
               <div class="col-md-6">
               
               <ul class="content-menu-menu">
-                <li style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Email&nbsp;:</strong>&nbsp;Naumankhan76@gmail.com</li>
-                <li  style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Phone&nbsp;:</strong>&nbsp;+92&nbsp;311&nbsp;9585567</li>
+                <li style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Email&nbsp;:</strong>&nbsp;Hello@naumankhan.site</li>
+                <li  style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Phone&nbsp;:</strong>&nbsp;+92&nbsp;308&nbsp;6467434</li>
                 <li  style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>City&nbsp;:</strong>&nbsp;Islamabad,&nbsp;Pakistan</li>
                 <li  style={{ fontFamily: "sans-serif",listStyleType: "none" }}> <strong>Freelance&nbsp;:</strong>&nbsp;Available</li>
                 </ul>
