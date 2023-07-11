@@ -73,7 +73,7 @@ class Resume extends React.Component {
               <h5>Dec 2022 - March 2023</h5>
               <p><em>Freelance, United Kingdom</em></p>
               <ul>
-                <li> I created numerous ad campaigns and developed SEO stratgies to generate sales and bring more customers. </li>
+                <li> I created numerous ad campaigns and developed SEO strategies to generate sales and bring more customers. </li>
               </ul>
             </div>
             <div class="resume-item">
