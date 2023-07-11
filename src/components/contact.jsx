@@ -111,8 +111,8 @@ class Contact extends React.Component {
                         </p>
                         {  <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> Islamabad, Pakistan</li>
-                                <li><span class="ion-ios-telephone"></span> +92 311 9585 657</li>
-                                <li><span class="ion-email"></span> Naumankhan76@gmail.com</li>
+                                <li><span class="ion-ios-telephone"></span> +92 308 6467 434</li>
+                                <li><span class="ion-email"></span> Hello@naumankhan.site</li>
                                 </ul> }
                       </div>
                       <div className="socials">
